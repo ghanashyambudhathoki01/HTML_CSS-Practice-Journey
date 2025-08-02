@@ -35,9 +35,10 @@ Each file or folder represents a lesson, concept, or project I've worked on.
 * Semantic elements: `header`, `nav`, `main`, `section`, `footer`
 * Tables and forms 
 
-### 🔜 CSS Topics Coming Soon
+###  CSS Topics
 
 * Selectors and properties
+* CSS Combinators
 * Fonts, colors, and spacing
 * Box model
 * Flexbox and Grid
