@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Responsive Card Layout with Basic Animation</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      padding: 20px;
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      gap: 20px;
+      background-color: greenyellow;
+      padding: 20px;
+      border-radius: 10px;
+    }
+
+    .card {
+      background-color: antiquewhite;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      animation: fadeInUp 0.5s ease forwards;
+      opacity: 0; /* Start invisible for animation */
+    }
+
+    /* Simple hover animation */
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    }
+
+    .card h3 {
+      margin-bottom: 10px;
+      font-size: 1.2rem;
+      color: red;
+    }
+
+    .card p {
+      color: #333;
+      line-height: 1.5;
+    }
+
+    /* Responsive padding on smaller screens */
+    @media (max-width: 500px) {
+      .cards {
+        padding: 10px;
+      }
+
+      .card {
+        padding: 15px;
+      }
+    }
+
+    /* Basic entrance animation */
+    @keyframes fadeInUp {
+      from {
+        transform: translateY(20px);
+        opacity: 0;
+      }
+      to {
+        transform: translateY(0);
+        opacity: 1;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="cards">
+    <div class="card">
+      <h3>Card 1</h3>
+      <p>This is some content inside card 1.</p>
+    </div>
+    <div class="card">
+      <h3>Card 2</h3>
+      <p>This is some content inside card 2.</p>
+    </div>
+    <div class="card">
+      <h3>Card 3</h3>
+      <p>This is some content inside card 3.</p>
+    </div>
+    <div class="card">
+      <h3>Card 4</h3>
+      <p>This is some content inside card 4.</p>
+    </div>
+  </div>
+</body>
+</html>
