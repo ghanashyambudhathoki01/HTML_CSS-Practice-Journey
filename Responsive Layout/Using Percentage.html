@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Using Percentage Responsive Layout</title>
+    <style>
+        .container{
+            width: 100%;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 15px;
+            color:red;
+            background-color: lightgray;
+        }
+        .container::after{
+            content: "";
+            display : table;
+            clear: both;
+        
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+    <div class="column">
+      <h2>Column 1</h2>
+      <p>This is the column 1.</p>
+    </div>
+    <div class="column">
+      <h3>Column 2</h3>
+      <p>This is the column 2.</p>
+    </div>
+    <div class="column">
+      <h2>Column 3</h2>
+      <p>This is the column 3.</p>
+    </div>
+    <div class="column">
+      <h3>Column 4</h3>
+      <p>This is the column 4.</p>
+    </div>
+  </div>
+</body>
+</html>
