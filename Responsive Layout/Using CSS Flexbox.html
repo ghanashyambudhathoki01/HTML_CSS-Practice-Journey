@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexbox Responsive Colomuns</title>
+    <style>
+        .container{
+            display: flex
+            flex-wrap wrap;
+            gap : 20px;
+            justify-content: center;
+
+        }
+        .column{
+            flex:1 1 45%;
+            min-width: 300px;
+            background : lightcoral;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+     <div class="container">
+    <div class="column">
+      <h2>Column 1</h2>
+      <p>This is some sample content for the first column.</p>
+    </div>
+    <div class="column">
+      <h2>Column 2</h2>
+      <p>This is some sample content for the second column.</p>
+    </div>
+    <div class="column">
+      <h2>Column 3</h2>
+      <p>This is some sample content for the third column.</p>
+    </div>
+    <div class="column">
+      <h2>Column 4</h2>
+      <p>This is some sample content for the fourth column.</p>
+    </div>
+  </div>
+</body>
+</html>
