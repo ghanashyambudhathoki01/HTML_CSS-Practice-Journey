@@ -1,6 +1,6 @@
 # 🚀 My HTML & CSS Learning Journey
 
-[![HTML5](https://img.shields.io/badge/HTML5-Learning-orange?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![HTML5](https://img.shields.io/badge/HTML5-Completed-orange?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-Exploring-blue?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Status](https://img.shields.io/badge/Status-In--Progress-yellow?style=flat-square)]()
 
@@ -44,6 +44,8 @@ Each file or folder represents a lesson, concept, or project I've worked on.
 * Flexbox and Grid
 * Media queries and responsiveness
 * Layouts and UI styling
+* Basic Animation 
+* Positioning 
 
 ---
 
