@@ -77,7 +77,7 @@ Aspiring Full Stack Developer | Computer Educator | Creative Designer | Writer
 
 🧠 Passionate about blending logic, design, and education to build meaningful digital experiences.
 
-Connected Now : 
+Connected Now : <br>
 [![Instagram](https://img.shields.io/badge/Instagram-Active-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ghanashyam_072?igsh=dm9yZHZhYjJmcHZ6)
 
 🌐 Website: *(Coming soon)*
