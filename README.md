@@ -25,7 +25,7 @@ Each file or folder represents a lesson, concept, or project I've worked on.
 
 ## ✨ Skills I'm Building
 
-# ✅ HTML Topics Covered
+### ✅ HTML Topics Covered
 
 * Page structure: `<!DOCTYPE>`, `<html>`, `<head>`, `<body>`
 * Headings, paragraphs, line breaks
