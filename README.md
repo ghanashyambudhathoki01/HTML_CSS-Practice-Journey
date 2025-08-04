@@ -69,7 +69,7 @@ Each file or folder represents a lesson, concept, or project I've worked on.
    ```bash
    git clone https://github.com/ghanashyambudhathoki01/HTML_CSS-Practice-Journey.git
 ---
-
+2) Click the code and click the file or folder.
 ## 🧑‍🎓 Author
 
 **Ghanashyam Budhathoki**
