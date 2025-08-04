@@ -1,4 +1,4 @@
-# 🚀 My HTML & CSS Learning Journey
+l# 🚀 My HTML & CSS Learning Journey
 
 [![HTML5](https://img.shields.io/badge/HTML5-Completed-orange?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-Exploring-blue?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -79,6 +79,8 @@ Aspiring Full Stack Developer | Computer Educator | Creative Designer | Writer
 
 Connected Now : <br>
 [![Instagram](https://img.shields.io/badge/Instagram-Active-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ghanashyam_072?igsh=dm9yZHZhYjJmcHZ6)
+[![Facebook](https://img.shields.io/badge/Facebook-Connected-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/samraz.budathoki.1)
+
 
 🌐 Website: *(Coming soon)*
 
