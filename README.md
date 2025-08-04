@@ -35,7 +35,7 @@ Each file or folder represents a lesson, concept, or project I've worked on.
 * Semantic elements: `header`, `nav`, `main`, `section`, `footer`
 * Tables and forms 
 
-###  CSS Topics
+###✅ CSS Topics Covered 
 
 * Selectors and properties
 * CSS Combinators
