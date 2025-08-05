@@ -2,7 +2,7 @@
 
 [![HTML5](https://img.shields.io/badge/HTML5-Completed-orange?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-Exploring-blue?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Status](https://img.shields.io/badge/Status-In--Progress-yellow?style=flat-square)]()
+[![Status](https://img.shields.io/badge/Status-Completed-yellow?style=flat-square)]()
 
 Welcome to my personal **HTML & CSS Learning Journey** repository!  
 Here, I document my hands-on progress as I explore the world of full stack web development—from the basics of HTML structure to CSS styling techniques.
