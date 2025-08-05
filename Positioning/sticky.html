@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Two Sticky Navbars</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    .top-nav {
+      position: sticky;
+      top: 0;
+      background-color: red;
+      color: white;
+      padding: 15px;
+      text-align: center;
+      z-index: 1000;
+    }
+
+    .secondary-nav {
+      position: sticky;
+      top: 50px; /* height of top-nav */
+      background-color: #444;
+      color: white;
+      padding: 12px;
+      text-align: center;
+      z-index: 999;
+    }
+
+    .content {
+      padding: 20px;
+      line-height: 1.6;
+    }
+
+    .section {
+      margin: 50px 0;
+      padding: 20px;
+      background-color: #f4f4f4;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="top-nav">Top Navbar – Logo | Profile | Menu</div>
+  <div class="secondary-nav">Secondary Navbar – Links | Categories | Filters</div>
+
+  <div class="content">
+    <div class="section">Section 1: Scroll to see sticky navbars in action.</div>
+    <div class="section">Section 2: Continue scrolling...</div>
+    <div class="section">Section 3: Sticky navbars stay at the top.</div>
+    <div class="section">Section 4: Works great on all screen sizes.</div>
+    <div class="section">Section 5: Done</div>
+  </div>
+
+</body>
+</html>
