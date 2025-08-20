@@ -23,7 +23,7 @@ Each file or folder represents a lesson, concept, or project I've worked on.
 
 ---
 
-## ✨ Skills I'm Building
+## ✨ Skills I'm Build
 
 ### ✅ HTML Topics Covered
 
