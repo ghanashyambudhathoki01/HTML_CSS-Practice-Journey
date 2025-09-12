@@ -86,7 +86,7 @@ Connected Now : <br>
 
 ---
 
-i<h3>Hi,  I made this javascript complete note private for personal reasons, but I’ll gladly accept your request. Thanks for understanding! </h3>
+<h3>Hi,  I made this HTML & CSS  complete note private for personal reasons, but I’ll gladly accept your request. Thanks for understanding! </h3>
 <a href="https://www.notion.so/HTML-CSS-Learning-Journey-Beginner-s-Guide-26cc3cb5e1a680a4bebef6a29b2bae58?source=copy_link" target="_blank">To gain more insight, read this HTML & CSS note.</a>
 
 
