@@ -81,8 +81,8 @@ Connected Now : <br>
 [![Instagram](https://img.shields.io/badge/Instagram-Active-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ghanashyam_072?igsh=dm9yZHZhYjJmcHZ6)
 [![Facebook](https://img.shields.io/badge/Facebook-Active-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/samraz.budathoki.1)
 
+<a href="https://ghanashyambudhathoki.com.np" target="_blank">🌐 Website</a>
 
-🌐 Website: *(Coming soon)*
 
 ---
 
